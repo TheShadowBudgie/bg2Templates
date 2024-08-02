@@ -1,0 +1,85 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Copy 3",
+    "author": "ShadowBudgie",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 16,
+      "max_y": 18,
+      "max_z": 16
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:cobblestone"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "mekanismgenerators:electromagnetic_coil"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 224,
+          "item": {
+            "id": "mekanism:pressure_disperser"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "mekanismgenerators:rotational_complex"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 795,
+          "item": {
+            "id": "mekanism:structural_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 520,
+          "item": {
+            "id": "mekanismgenerators:turbine_casing"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 14,
+          "item": {
+            "id": "mekanismgenerators:turbine_rotor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "mekanismgenerators:turbine_valve"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 285,
+          "item": {
+            "id": "mekanismgenerators:turbine_vent"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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\u003d\u003d"
+}
