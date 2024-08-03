@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Copy 2",
+    "author": "ShadowBudgie",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 1,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:conveyor_basic"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:slab_treated_wood_horizontal"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/7VSTU/DMAx1u250hRO/YBISVwTHHeGOkLhsXCpvcdNIbTIl6Ub363E/WAFNgiFII/nJffHzc5IATGG0MS4CgEs4rIC/LoZDilcIQRtHEAaHZNDzeUcNn+O4T7X8oOcHhyIw6X5yDKHfQZ/vI/PDBCY5oSDLYGUqLdwIolLpl66FBi4HuHiH+NoQwg4uBrhse40h0lgSTB7Mpp7dxTDByufGwsVzjsLs7ishFfFYEkdWYaH2ZOP25GxVqUIoLSUKSd7NRVWWdTrQphAJ9Jgw+yyBsfPoieUeG7lrVZZkndoSaak08SEt52xvW6cfMmzgg27jKOmKNuBzxZujFZ0nKlK3xiwzbbMpH9ICrUggebJmQ9YrcjGc77iWLYyUJGCcYeEITlC/Oqq+NnpLtbHpCp1af6/I089w3fgea2N9fkoHt8f9F7hKvSUminRnjEj5btXeaI/Fl34iX2+oeVnem/KfBmLdL2/3r+cbETp/ip/jD7ZQMvc/tARvamxjT14EAAA\u003d"
+}
